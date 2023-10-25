@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(203, 168, 236);
+}
+a{
+    text-decoration: none;
+    color: chocolate;
+}
+div{
+    text-align: center;
+    
+}
+p{
+    font-size: 40px;
+}
+.border1{
+    border-style: dotted;
+
+}
+.border2{
+    border-style: dashed;
+    
+}
+.border3{
+    border-style: solid;
+    
+}
+.border4{
+    border-style:double;
+}
+.border5{
+    border-style:groove;   
+}
+.border6{
+    border-style:ridge;
+    
+}
+.border7{
+    border-style:inset;
+}
+.border8{
+    border-style: outset;
+}
+.border9{
+    border-style: none;
+}
+.border10{
+    border-style: hidden
+}
+.border11{
+    border-style: dotted dashed solid double;
+    
+    
+}
